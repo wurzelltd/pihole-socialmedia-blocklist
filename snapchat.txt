@@ -1,4 +1,5 @@
-*.snapchat.com
+www.snapchat.com
+snapchat.com
 sc-cdn.net
 snap-dev.net
 snapkit.co
