@@ -1,5 +1,7 @@
 youtube.com
+www.youtube.com
 googlevideo.com
+www.googlevideo.com
 r3---sn-o097znlk.googlevideo.com
 r5---sn-n4v7knlk.googlevideo.com
 r5---sn-n4v7sn7y.googlevideo.com
